@@ -1,0 +1,6 @@
+name: MonsterUpgrades
+version: 1.0
+author: Konstricktor
+main: me.konstricktor.monsterDiamondArmor.MonsterDiamondArmorPlugin
+description: Golden Armor for Skeletons, Diamond Armor for Zombies, Bigger Creeper Explosion
+api-version: 1.15
